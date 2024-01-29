@@ -12,6 +12,9 @@ A curated list of awesome things related to L402 ⚡
   - [Libraries](#libraries)
   - [Tools](#tools)
   - [Companies](#companies)
+  - [Contributing](#contributing)
+  - [License](#License)
+
 <!-- /MarkdownTOC -->
 
 <a name="protocol" />
@@ -71,3 +74,17 @@ The following list will provide you with detailed insights and resources to enha
 - [Open Agents](https://openagents.com) - An open platform for AI agents, built in public from scratch.
 - [Unleashed](https://unleashed.chat) - One button to deploy your own chat.
 - [Mash](https://mash.com) - New ways to monetize media.
+
+<a name="contribute" />
+
+## Contribute
+
+Contributions are not only allowed but welcomed!
+
+Feel free to open a PR adding a new entry or section to the repository.
+
+<a name="license" />
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
