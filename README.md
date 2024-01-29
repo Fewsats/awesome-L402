@@ -10,10 +10,11 @@ A curated list of awesome things related to L402 ⚡
   - [Table of Contents](#table-of-contents)
   - [Protocol](#protocol)
   - [Libraries](#libraries)
+  - [Projects](#projcets)
   - [Tools](#tools)
   - [Companies](#companies)
   - [Contributing](#contributing)
-  - [License](#License)
+  - [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -54,6 +55,12 @@ The following list will provide you with detailed insights and resources to enha
 | [alby-tools](https://github.com/getAlby/js-lightning-tools) | typescript | Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps | 
 | [lsat-js](https://github.com/Tierion/lsat-js)  | javascript | A javascript library for working with L402 |
 
+
+<a name="projects" />
+
+## Projects
+
+- [n8n node](https://github.com/getAlby/n8n-nodes-l402-request) - Node to integrate L402 payments in n8n workflow platform. By Alby.
 
 <a name="tools" />
 
