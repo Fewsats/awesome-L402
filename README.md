@@ -42,6 +42,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Macaroons: minting and verification](https://github.com/lightninglabs/L402/blob/master/macaroons.md) - Macaroon component in the L402.
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/) - The Research publication introducing Macaroons.
 - [Macaroons Overview](https://www.youtube.com/watch?v=CGBZO5n_SUg) - **Video** Talk given at Mozilla by Úlfar Erlingsson
+- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/) **Blog** How [Fly.io](fly.io) uses macaroons in their infrastructure. 
 
 <a name="libraries" />
 
