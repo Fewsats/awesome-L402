@@ -34,6 +34,7 @@ When a client requests a resource without a valid access token, the server respo
 - [L402 Builder's guide quick start](https://docs.lightning.engineering/the-lightning-network/l402) - LL Builder's guide L402 documentation.
 - [L402 Builder's guide spec](https://docs.lightning.engineering/the-lightning-network/l402/protocol-specification) LL Builder's guide protocl spec.
 - [Building Paid APIs with Bitcoin](https://www.youtube.com/watch?v=PauSnLTu0BQ) - **Video** Quick overview of the architecture of an L402 by Hannah Rosenberg
+- [Implementing L402 in Flask for Core Lightning](https://www.youtube.com/watch?v=MmEg160QtnE) - **Video** By [Base58](https://github.com/base58btc)
 
 The following list will provide you with detailed insights and resources to enhance your understanding of Macaroons and the Lightning Network, the core technologies underpinning the L402 protocol.
 
