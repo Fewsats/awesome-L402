@@ -30,6 +30,8 @@ When a client requests a resource without a valid access token, the server respo
 
 
 - [L402 spec](https://github.com/lightninglabs/L402) - The L402 protocol specification.
+- [L402.org](https://l402.org/) - L402 Guides & Resources
+- [L402 Notebook](https://colab.research.google.com/drive/1MLZy1g6-lFqbRAfFOxR14PZ3b36sYr1r) - Interactive python notebook starting with basics up to setting up an L402 server & client. 
 - [L420 playground](https://lsat-playground.bucko.vercel.app) - An interactive playground to learn and understand the workings of the protocol.
 - [L402 Builder's guide quick start](https://docs.lightning.engineering/the-lightning-network/l402) - LL Builder's guide L402 documentation.
 - [L402 Builder's guide spec](https://docs.lightning.engineering/the-lightning-network/l402/protocol-specification) LL Builder's guide protocl spec.
@@ -52,7 +54,7 @@ The following list will provide you with detailed insights and resources to enha
 | Name          | Language      | Overview                                |
 |---------------|---------------|-----------------------------------------|
 | [aperture/lsat](https://github.com/lightninglabs/aperture/tree/master/lsat) | Go | L402 package used in the Reverse Proxy |
-| [l402py](https://github.com/Fewsats/L402py) | python| L402 client and server library for python projects |
+| [Fewsats/l402-python](https://github.com/Fewsats/L402-python) | python| L402 client and server library for python projects |
 | [LangChainBitcoin](LangChainBitcoin) | python | AI tools for giving LangChain agents access to Bitcoin and the ability to traverse L402 APIs |
 | [alby-tools](https://github.com/getAlby/js-lightning-tools) | typescript | Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps | 
 | [lsat-js](https://github.com/Tierion/lsat-js)  | javascript | A javascript library for working with L402 |
