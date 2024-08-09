@@ -70,7 +70,7 @@ The following list will provide you with detailed insights and resources to enha
 
 - [Pillbox](https://github.com/Fewsats/pillbox/) - A tool for managing L402 credentials and accessing L402 paywalled endpoints.
 - [n8n node](https://github.com/getAlby/n8n-nodes-l402-request) - Node to integrate L402 payments in n8n workflow platform. By Alby.
-- [matador](https://github.com/Kodylow/matador) An "API reverse proxy" using L402.
+- [matador](https://github.com/Kodylow/matador) - An "API reverse proxy" using L402.
 
 <a name="tools" />
 
@@ -90,6 +90,8 @@ The following list will provide you with detailed insights and resources to enha
 - [Sulu](https://www.sulu.sh) - API Monetization with L402.
 - [Open Agents](https://openagents.com) - An open platform for AI agents, built in public from scratch.
 - [Unleashed](https://unleashed.chat) - One button to deploy your own chat.
+- [OrdinalsBot](https://ordinalsbot.com/) - Inscriptions in Bitcoin with L402.
+
 
 <a name="contribute" />
 
