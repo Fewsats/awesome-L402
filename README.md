@@ -2,6 +2,8 @@
 
 A curated list of awesome things related to L402 ⚡
 
+Try our Interactive [L402 Notebook](https://colab.research.google.com/drive/1MLZy1g6-lFqbRAfFOxR14PZ3b36sYr1r) 
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -22,15 +24,15 @@ A curated list of awesome things related to L402 ⚡
 
 ## Protocol
 
-The [L402 protocol](https://docs.lightning.engineering/the-lightning-network/l402), created by [Lightning Labs](https://lightning.engineering), serves as a framework, facilitating service providers in securing their services with a payment gateway.
+The [L402 protocol](https://l402.org), created by [Lightning Labs](https://lightning.engineering), serves as a framework, facilitating service providers in securing their services with a payment gateway.
 
 This setup allows clients to seamlessly transact and gain access to the respective resources. Essentially, it bridges the gap between payment requirements and resource accessibility, streamlining the process for both service providers and their customers.
 
 When a client requests a resource without a valid access token, the server responds with an incomplete token and a Lightning Network invoice for payment. Once the client pays the invoice and obtains a proof of payment, they combine this with the incomplete token to create a valid access token. This complete token, when presented in a subsequent request, is independently verified by the server, confirming the payment and granting access without needing external validation.
 
 
+- [L402 Homepage](https://l402.org/) - L402 Guides & Resources
 - [L402 spec](https://github.com/lightninglabs/L402) - The L402 protocol specification.
-- [L402.org](https://l402.org/) - L402 Guides & Resources
 - [L402 Notebook](https://colab.research.google.com/drive/1MLZy1g6-lFqbRAfFOxR14PZ3b36sYr1r) - Interactive python notebook starting with basics up to setting up an L402 server & client. 
 - [L420 playground](https://lsat-playground.bucko.vercel.app) - An interactive playground to learn and understand the workings of the protocol.
 - [L402 Builder's guide quick start](https://docs.lightning.engineering/the-lightning-network/l402) - LL Builder's guide L402 documentation.
@@ -53,17 +55,20 @@ The following list will provide you with detailed insights and resources to enha
 
 | Name          | Language      | Overview                                |
 |---------------|---------------|-----------------------------------------|
-| [aperture/lsat](https://github.com/lightninglabs/aperture/tree/master/lsat) | Go | L402 package used in the Reverse Proxy |
 | [Fewsats/l402-python](https://github.com/Fewsats/L402-python) | python| L402 client and server library for python projects |
+| [aperture/lsat](https://github.com/lightninglabs/aperture/tree/master/lsat) | Go | L402 package used in the Reverse Proxy |
 | [LangChainBitcoin](LangChainBitcoin) | python | AI tools for giving LangChain agents access to Bitcoin and the ability to traverse L402 APIs |
 | [alby-tools](https://github.com/getAlby/js-lightning-tools) | typescript | Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps | 
 | [lsat-js](https://github.com/Tierion/lsat-js)  | javascript | A javascript library for working with L402 |
+| [l402-ts](https://github.com/sulusolutions/l402-ts)  | typescript | A client library for working with L402 |
+| [gol402](https://github.com/sulusolutions/gol402)  | golang | A client library for working with L402 |
 
 
 <a name="projects" />
 
 ## Projects
 
+- [Pillbox](https://github.com/Fewsats/pillbox/) - A tool for managing L402 credentials and accessing L402 paywalled endpoints.
 - [n8n node](https://github.com/getAlby/n8n-nodes-l402-request) - Node to integrate L402 payments in n8n workflow platform. By Alby.
 - [matador](https://github.com/Kodylow/matador) An "API reverse proxy" using L402.
 
@@ -82,10 +87,9 @@ The following list will provide you with detailed insights and resources to enha
 
 - [Lightning Labs](https://lightning.engineering) - Lightning network infrastructure. Created L402 and has been running services supporting (Loop/Pool) the protocol since 2020.
 - [Fewsats](https://www.fewsats/com) - *PR incoming.*
-- [Sulu](https://www.sulu.sh) - API Monetization with Lightning.
+- [Sulu](https://www.sulu.sh) - API Monetization with L402.
 - [Open Agents](https://openagents.com) - An open platform for AI agents, built in public from scratch.
 - [Unleashed](https://unleashed.chat) - One button to deploy your own chat.
-- [Mash](https://mash.com) - New ways to monetize media.
 
 <a name="contribute" />
 
