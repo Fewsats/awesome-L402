@@ -71,6 +71,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Pillbox](https://github.com/Fewsats/pillbox/) - A tool for managing L402 credentials and accessing L402 paywalled endpoints.
 - [n8n node](https://github.com/getAlby/n8n-nodes-l402-request) - Node to integrate L402 payments in n8n workflow platform. By Alby.
 - [matador](https://github.com/Kodylow/matador) - An "API reverse proxy" using L402.
+- [bitcoinsearch Chat](https://chat.bitcoinsearch.xyz) - ChatGPT-like application designed to help you learn about bitcoin technology and its history.
 
 <a name="tools" />
 
