@@ -8,14 +8,14 @@ Try our Interactive [L402 Notebook](https://colab.research.google.com/drive/1MLZ
 
 <!-- MarkdownTOC depth=4 -->
 
-- [awesome-l402 ](#awesome-l402-)
+- [Awesome-L402](#awesome-l402)
   - [Table of Contents](#table-of-contents)
   - [Protocol](#protocol)
   - [Libraries](#libraries)
-  - [Projects](#projcets)
+  - [Projects](#projects)
   - [Tools](#tools)
   - [Companies](#companies)
-  - [Contributing](#contributing)
+  - [Contribute](#contribute)
   - [License](#license)
 
 <!-- /MarkdownTOC -->
@@ -53,15 +53,15 @@ The following list will provide you with detailed insights and resources to enha
 
 ## Libraries
 
-| Name          | Language      | Overview                                |
-|---------------|---------------|-----------------------------------------|
-| [Fewsats/l402-python](https://github.com/Fewsats/L402-python) | python| L402 client and server library for python projects |
-| [aperture/lsat](https://github.com/lightninglabs/aperture/tree/master/lsat) | Go | L402 package used in the Reverse Proxy |
-| [LangChainBitcoin](LangChainBitcoin) | python | AI tools for giving LangChain agents access to Bitcoin and the ability to traverse L402 APIs |
-| [alby-tools](https://github.com/getAlby/js-lightning-tools) | typescript | Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps | 
-| [lsat-js](https://github.com/Tierion/lsat-js)  | javascript | A javascript library for working with L402 |
-| [l402-ts](https://github.com/sulusolutions/l402-ts)  | typescript | A client library for working with L402 |
-| [gol402](https://github.com/sulusolutions/gol402)  | golang | A client library for working with L402 |
+| Name                                                                        | Language   | Overview                                                                                     |
+| --------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------- |
+| [Fewsats/l402-python](https://github.com/Fewsats/L402-python)               | python     | L402 client and server library for python projects                                           |
+| [aperture/lsat](https://github.com/lightninglabs/aperture/tree/master/lsat) | Go         | L402 package used in the Reverse Proxy                                                       |
+| [LangChainBitcoin](LangChainBitcoin)                                        | python     | AI tools for giving LangChain agents access to Bitcoin and the ability to traverse L402 APIs |
+| [alby-tools](https://github.com/getAlby/js-lightning-tools)                 | typescript | Collection of helpful building blocks and tools to develop Bitcoin Lightning web apps        |
+| [lsat-js](https://github.com/Tierion/lsat-js)                               | javascript | A javascript library for working with L402                                                   |
+| [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
+| [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 
 
 <a name="projects" />
@@ -72,6 +72,7 @@ The following list will provide you with detailed insights and resources to enha
 - [n8n node](https://github.com/getAlby/n8n-nodes-l402-request) - Node to integrate L402 payments in n8n workflow platform. By Alby.
 - [matador](https://github.com/Kodylow/matador) - An "API reverse proxy" using L402.
 - [bitcoinsearch Chat](https://chat.bitcoinsearch.xyz) - ChatGPT-like application designed to help you learn about bitcoin technology and its history.
+- L402 Shield - Example of an API to access Bitcoin blockchain data paywalled with the L402 protocol. [Live demo](https://l402.starknetonbitcoin.com/) - [L402 Backend in Rust](https://github.com/AbdelStark/l402-server-example-rs) - [L402 Frontend using Nextjs / React](https://github.com/AbdelStark/l402-shield)
 
 <a name="tools" />
 
