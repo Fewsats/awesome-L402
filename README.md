@@ -73,6 +73,7 @@ The following list will provide you with detailed insights and resources to enha
 - [matador](https://github.com/Kodylow/matador) - An "API reverse proxy" using L402.
 - [bitcoinsearch Chat](https://chat.bitcoinsearch.xyz) - ChatGPT-like application designed to help you learn about bitcoin technology and its history.
 - L402 Shield - Example of an API to access Bitcoin blockchain data paywalled with the L402 protocol. [Live demo](https://l402.starknetonbitcoin.com/) - [L402 Backend in Rust](https://github.com/AbdelStark/l402-server-example-rs) - [L402 Frontend using Nextjs / React](https://github.com/AbdelStark/l402-shield)
+- [Maximum Sats](https://maximumsats.com) - L402-paywalled AI API for Bitcoin knowledge queries and image generation. Pay per query with Lightning — 21 sats for text, 100 sats for images. Built with Cloudflare Workers and LNbits. [MCP server](https://github.com/joelklabo/maximumsats-mcp) available for AI agent integration.
 
 <a name="tools" />
 
