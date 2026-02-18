@@ -76,6 +76,7 @@ The following list will provide you with detailed insights and resources to enha
 - L402 Shield - Example of an API to access Bitcoin blockchain data paywalled with the L402 protocol. [Live demo](https://l402.starknetonbitcoin.com/) - [L402 Backend in Rust](https://github.com/AbdelStark/l402-server-example-rs) - [L402 Frontend using Nextjs / React](https://github.com/AbdelStark/l402-shield)
 - [Maximum Sats](https://maximumsats.com) - L402-paywalled AI API (text and image generation) built on Cloudflare Workers with LNbits. Includes developer tutorials for building L402 services.
 - [l402.directory](https://l402.directory) - Service registry for L402 APIs. Health-checked, payment-verified listings (listing requires paying an L402 invoice). Machine-readable discovery at GET /api.
+- [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
 
 <a name="tools" />
