@@ -63,6 +63,7 @@ The following list will provide you with detailed insights and resources to enha
 | [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
 | [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 | [l402-toolkit](https://github.com/EricRHadley/l402-toolkit)                 | javascript | Server-side L402 module and agent discovery patterns for Node.js. Stateless verification, per-resource caveats, one dependency |
+| [satpathdev/gateless](https://github.com/satpathdev/gateless)               | typescript | Sovereign L402 client for AI agents. Supports classic L402 and Fewsats v0.2. Connects to your own LND node. |
 
 
 <a name="projects" />
