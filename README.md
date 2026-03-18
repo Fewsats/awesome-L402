@@ -81,6 +81,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
 - [402-announce](https://github.com/TheCryptoDonkey/402-announce) - Publish L402 services on Nostr as kind 31402 events for decentralised discovery. Machine-readable by agents and wallets.
 - [toll-booth-announce](https://github.com/TheCryptoDonkey/toll-booth-announce) - Bridge between toll-booth and 402-announce. Reads toll-booth config and auto-publishes kind 31402 service announcements on Nostr.
+- [402-indexer](https://github.com/TheCryptoDonkey/402-indexer) - Nostr-native crawler that discovers L402 and x402 paid APIs and publishes kind 31402 events for decentralised indexing.
 - [402-mcp](https://github.com/TheCryptoDonkey/402-mcp) - MCP server for AI agents to discover, pay, and consume L402 and x402 APIs autonomously.
 - [402.pub](https://402.pub) - Live directory of L402 services discovered via Nostr kind 31402 events. Decentralised alternative to centralised API registries.
 
