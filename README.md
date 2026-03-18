@@ -79,11 +79,11 @@ The following list will provide you with detailed insights and resources to enha
 - [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Decentralized agent memory for the Lightning economy. Vendor reputation, spending anomaly detection, Nostr identity (BIP-340), L402 payment gateway for agent-to-agent knowledge markets. MCP native.
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
-- [aperture-announce](https://github.com/TheCryptoDonkey/aperture-announce) - Read Aperture YAML config and publish L402 services on Nostr as kind 31402 events. Zero-config discovery for existing Aperture deployments.
-- [402-announce](https://github.com/TheCryptoDonkey/402-announce) - Publish L402 services on Nostr as kind 31402 events for decentralised discovery. Machine-readable by agents and wallets.
-- [toll-booth-announce](https://github.com/TheCryptoDonkey/toll-booth-announce) - Bridge between toll-booth and 402-announce. Reads toll-booth config and auto-publishes kind 31402 service announcements on Nostr.
-- [402-indexer](https://github.com/TheCryptoDonkey/402-indexer) - Nostr-native crawler that discovers L402 and x402 paid APIs and publishes kind 31402 events for decentralised indexing.
-- [402-mcp](https://github.com/TheCryptoDonkey/402-mcp) - MCP server for AI agents to discover, pay, and consume L402 and x402 APIs autonomously.
+- [aperture-announce](https://github.com/forgesworn/aperture-announce) - Read Aperture YAML config and publish L402 services on Nostr as kind 31402 events. Zero-config discovery for existing Aperture deployments.
+- [402-announce](https://github.com/forgesworn/402-announce) - Publish L402 services on Nostr as kind 31402 events for decentralised discovery. Machine-readable by agents and wallets.
+- [toll-booth-announce](https://github.com/forgesworn/toll-booth-announce) - Bridge between toll-booth and 402-announce. Reads toll-booth config and auto-publishes kind 31402 service announcements on Nostr.
+- [402-indexer](https://github.com/forgesworn/402-indexer) - Nostr-native crawler that discovers L402 and x402 paid APIs and publishes kind 31402 events for decentralised indexing.
+- [402-mcp](https://github.com/forgesworn/402-mcp) - MCP server for AI agents to discover, pay, and consume L402 and x402 APIs autonomously.
 - [402.pub](https://402.pub) - Live directory of L402 services discovered via Nostr kind 31402 events. Decentralised alternative to centralised API registries.
 
 <a name="tools" />
@@ -95,8 +95,8 @@ The following list will provide you with detailed insights and resources to enha
 - [Alby](https://getalby.com) - Bitcoin wallet with L402 support
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
-- [toll-booth](https://github.com/TheCryptoDonkey/toll-booth) - L402 middleware for Node.js (Express, Hono, Web Standard). Macaroon-based credit system, volume discounts, free tier, Cashu support. Backends: Phoenixd, LND, CLN, LNbits, NWC. Also speaks x402.
-- [aperture-phoenixd](https://github.com/TheCryptoDonkey/aperture-phoenixd) - Phoenixd payment backend for Aperture. Run the L402 reverse proxy without LND.
+- [toll-booth](https://github.com/forgesworn/toll-booth) - L402 middleware for Express, Hono, Deno, Bun, and Workers. Macaroon-based credit system, volume discounts, free tier, Cashu support. Backends: Phoenixd, LND, CLN, LNbits, NWC. Also speaks x402.
+- [aperture-phoenixd](https://github.com/forgesworn/aperture-phoenixd) - Phoenixd payment backend for Aperture. Run the L402 reverse proxy without LND.
 
 <a name="companies" />
 
