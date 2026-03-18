@@ -95,7 +95,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Alby](https://getalby.com) - Bitcoin wallet with L402 support
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
-- [toll-booth](https://github.com/forgesworn/toll-booth) - L402 middleware for Express, Hono, Deno, Bun, and Workers. Macaroon-based credit system, volume discounts, free tier, Cashu support. Backends: Phoenixd, LND, CLN, LNbits, NWC. Also speaks x402.
+- [toll-booth](https://github.com/forgesworn/toll-booth) - L402 reverse proxy — gate any API behind Lightning in one line. Five Lightning backends (Phoenixd, LND, CLN, LNbits, NWC), Cashu ecash, and x402 stablecoins. Built-in payment UI with QR, WebLN, and NWC. Credit system with volume discounts and free tier. Privacy-first (no PII). Runs on Express, Hono, Deno, Bun, and Workers.
 - [aperture-phoenixd](https://github.com/forgesworn/aperture-phoenixd) - Phoenixd payment backend for Aperture. Run the L402 reverse proxy without LND.
 
 <a name="companies" />
