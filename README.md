@@ -79,6 +79,9 @@ The following list will provide you with detailed insights and resources to enha
 - [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Decentralized agent memory for the Lightning economy. Vendor reputation, spending anomaly detection, Nostr identity (BIP-340), L402 payment gateway for agent-to-agent knowledge markets. MCP native.
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
+- [402-announce](https://github.com/TheCryptoDonkey/402-announce) - Publish L402 services on Nostr as kind 31402 events for decentralised discovery. Machine-readable by agents and wallets.
+- [toll-booth-announce](https://github.com/TheCryptoDonkey/toll-booth-announce) - Bridge between toll-booth and 402-announce. Reads toll-booth config and auto-publishes kind 31402 service announcements on Nostr.
+- [402.pub](https://402.pub) - Live directory of L402 services discovered via Nostr kind 31402 events. Decentralised alternative to centralised API registries.
 
 <a name="tools" />
 
@@ -89,6 +92,8 @@ The following list will provide you with detailed insights and resources to enha
 - [Alby](https://getalby.com) - Bitcoin wallet with L402 support
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
+- [toll-booth](https://github.com/TheCryptoDonkey/toll-booth) - L402 middleware for Node.js (Express, Hono, Web Standard). Macaroon-based credit system, volume discounts, free tier, Cashu support. Backends: Phoenixd, LND, CLN, LNbits, NWC. Also speaks x402.
+- [lnget](https://github.com/lightninglabs/lnget) - L402 CLI client by Lightning Labs. wget for the pay-per-request web. Token caching, dry-run, MCP server, agent-CLI friendly.
 
 <a name="companies" />
 
