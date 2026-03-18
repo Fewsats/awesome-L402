@@ -93,7 +93,6 @@ The following list will provide you with detailed insights and resources to enha
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [toll-booth](https://github.com/TheCryptoDonkey/toll-booth) - L402 middleware for Node.js (Express, Hono, Web Standard). Macaroon-based credit system, volume discounts, free tier, Cashu support. Backends: Phoenixd, LND, CLN, LNbits, NWC. Also speaks x402.
-- [lnget](https://github.com/lightninglabs/lnget) - L402 CLI client by Lightning Labs. wget for the pay-per-request web. Token caching, dry-run, MCP server, agent-CLI friendly.
 
 <a name="companies" />
 
