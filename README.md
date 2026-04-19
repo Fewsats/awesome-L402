@@ -63,6 +63,8 @@ The following list will provide you with detailed insights and resources to enha
 | [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
 | [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 | [l402-toolkit](https://github.com/EricRHadley/l402-toolkit)                 | javascript | Server-side L402 module and agent discovery patterns for Node.js. Stateless verification, per-resource caveats, one dependency |
+| [@powforge/identity](https://www.npmjs.com/package/@powforge/identity) | JavaScript | Depth-of-Identity SDK, computes 5-dimension Schnorr-signed identity weight from Nostr events |
+| [@powforge/captcha](https://www.npmjs.com/package/@powforge/captcha) | JavaScript | Drop-in L402-compatible PoW CAPTCHA client and verifier |
 
 
 <a name="projects" />
@@ -82,6 +84,10 @@ The following list will provide you with detailed insights and resources to enha
 
 <a name="tools" />
 
+- [PowForge DoI Oracle](https://identity.powforge.dev/oracle/info) - Schnorr-signed Depth-of-Identity score for any Nostr pubkey, L402-paywalled. The signature is the product. [Whitepaper](https://powforge.dev/whitepaper/) - [Source](https://gitlab.com/powforge/sats-challenge)
+- [PowForge pow-gate](https://gate.powforge.dev) - PoW + L402 gated HTTP reverse proxy. Pay sats or compute sats.
+- [PowForge pow-captcha](https://captcha.powforge.dev) - PoW CAPTCHA with L402 skip tier. [npm](https://www.npmjs.com/package/@powforge/captcha)
+- [PowForge pow-paste](https://paste.powforge.dev) - L402-gated pastebin. Pay a sat, paste stays pinned.
 ## Tools
 
 - [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 reverse proxy that supports proxying requests for gRPC (HTTP/2) and REST (HTTP/1 and HTTP/2) backends using the L402 
