@@ -63,6 +63,7 @@ The following list will provide you with detailed insights and resources to enha
 | [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
 | [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 | [l402-toolkit](https://github.com/EricRHadley/l402-toolkit)                 | javascript | Server-side L402 module and agent discovery patterns for Node.js. Stateless verification, per-resource caveats, one dependency |
+| [SaturnZap](https://github.com/lqwdtech/SaturnZap)                          | python     | Non-custodial Lightning wallet for autonomous AI agents. Runs its own LDK node, pays L402-gated APIs from the CLI or via a built-in MCP server |
 
 
 <a name="projects" />
@@ -79,6 +80,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Decentralized agent memory for the Lightning economy. Vendor reputation, spending anomaly detection, Nostr identity (BIP-340), L402 payment gateway for agent-to-agent knowledge markets. MCP native.
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
+- [SaturnZap](https://github.com/lqwdtech/SaturnZap) - Non-custodial Lightning wallet built for autonomous AI agents. The agent runs its own LDK node, opens channels, and pays L402-gated APIs from the CLI or via a built-in MCP server. PyPI: `saturnzap`.
 
 <a name="tools" />
 
