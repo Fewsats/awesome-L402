@@ -79,6 +79,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Decentralized agent memory for the Lightning economy. Vendor reputation, spending anomaly detection, Nostr identity (BIP-340), L402 payment gateway for agent-to-agent knowledge markets. MCP native.
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
+- [sparkbtcbot-skill](https://github.com/echennells/sparkbtcbot-skill) - Agent wallet skill for the Spark Bitcoin L2. Gives agents a way to pay through L402 paywalls and reach gated APIs. Ships as an agent skill file and npm package.
 
 <a name="tools" />
 
