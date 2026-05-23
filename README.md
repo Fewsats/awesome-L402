@@ -79,6 +79,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Decentralized agent memory for the Lightning economy. Vendor reputation, spending anomaly detection, Nostr identity (BIP-340), L402 payment gateway for agent-to-agent knowledge markets. MCP native.
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
+- [The Ark AI](https://arknode.ai) - 120+ AI services payable via Lightning L402 — research, summarize, translate, code gen, image gen, document gen. Built with LNbits in Nairobi, Kenya.
 
 <a name="tools" />
 
