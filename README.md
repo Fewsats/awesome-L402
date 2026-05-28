@@ -63,6 +63,7 @@ The following list will provide you with detailed insights and resources to enha
 | [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
 | [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 | [l402-toolkit](https://github.com/EricRHadley/l402-toolkit)                 | javascript | Server-side L402 module and agent discovery patterns for Node.js. Stateless verification, per-resource caveats, one dependency |
+| [Routeweiler](https://github.com/nikoSchoinas/routeweiler-python-sdk)       | python     | Agent micropayment client with native L402/BOLT-11 support. Handles policy, budgeting, traces|
 
 
 <a name="projects" />
@@ -80,6 +81,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Satring](https://satring.com) - L402 service directory. Browse, search, and rate Lightning-paywalled APIs. Free JSON API for agent discovery, L402-gated submissions. [Source](https://github.com/toadlyBroodle/satring).
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
 - [sparkbtcbot-skill](https://github.com/echennells/sparkbtcbot-skill) - Agent wallet skill for the Spark Bitcoin L2. Gives agents a way to pay through L402 paywalls and reach gated APIs. Ships as an agent skill file and npm package.
+- [The Ark AI](https://arknode.ai) - 120+ AI services payable via Lightning L402 — research, summarize, translate, code gen, image gen, document gen. Built with LNbits in Nairobi, Kenya.
 
 <a name="tools" />
 
