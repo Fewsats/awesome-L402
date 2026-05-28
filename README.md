@@ -63,6 +63,7 @@ The following list will provide you with detailed insights and resources to enha
 | [l402-ts](https://github.com/sulusolutions/l402-ts)                         | typescript | A client library for working with L402                                                       |
 | [gol402](https://github.com/sulusolutions/gol402)                           | golang     | A client library for working with L402                                                       |
 | [l402-toolkit](https://github.com/EricRHadley/l402-toolkit)                 | javascript | Server-side L402 module and agent discovery patterns for Node.js. Stateless verification, per-resource caveats, one dependency |
+| [Routeweiler](https://github.com/nikoSchoinas/routeweiler-python-sdk)       | python     | Agent micropayment client with native L402/BOLT-11 support. Handles policy, budgeting, traces|
 
 
 <a name="projects" />
