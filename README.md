@@ -82,6 +82,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Hyperdope](https://hyperdope.com) - L402-gated video streaming. 10 sats per video, HLS with token-authenticated segments, no user accounts. Mainnet.
 - [sparkbtcbot-skill](https://github.com/echennells/sparkbtcbot-skill) - Agent wallet skill for the Spark Bitcoin L2. Gives agents a way to pay through L402 paywalls and reach gated APIs. Ships as an agent skill file and npm package.
 - [The Ark AI](https://arknode.ai) - 120+ AI services payable via Lightning L402 — research, summarize, translate, code gen, image gen, document gen. Built with LNbits in Nairobi, Kenya.
+- [ALFRED](https://x402.wallace.us/.well-known/x402) - Self-hosted personal-assistant paid tools. 21 endpoints priced 21–100,000 sats: weather, article reader, PDF text extraction, YouTube captions, Whisper transcription, FLUX image generation, long-context reasoning + vision on a local RTX 5090, custom SDXL/FLUX character LoRA training, Wikipedia search, live WeatherFlow Tempest sensor readings, more. BOLT11 per-call, BOLT12 tipping. Machine-readable discovery at `/.well-known/x402`. L402-lineage (payment_hash retry instead of macaroons).
 
 <a name="tools" />
 
