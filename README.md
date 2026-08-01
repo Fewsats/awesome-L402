@@ -105,7 +105,7 @@ The following list will provide you with detailed insights and resources to enha
 - [Open Agents](https://openagents.com) - An open platform for AI agents, built in public from scratch.
 - [Unleashed](https://unleashed.chat) - One button to deploy your own chat.
 - [OrdinalsBot](https://ordinalsbot.com/) - Inscriptions in Bitcoin with L402.
-
+- [PayAgents](https://payagents.io) -  Multi-rail payments SDK for AI agents and MCP servers. Smart routing across L402 (Lightning) & x402 (USDC), with per-agent spend controls.
 
 <a name="contribute" />
 
