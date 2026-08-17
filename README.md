@@ -83,6 +83,7 @@ The following list will provide you with detailed insights and resources to enha
 - [sparkbtcbot-skill](https://github.com/echennells/sparkbtcbot-skill) - Agent wallet skill for the Spark Bitcoin L2. Gives agents a way to pay through L402 paywalls and reach gated APIs. Ships as an agent skill file and npm package.
 - [The Ark AI](https://arknode.ai) - 120+ AI services payable via Lightning L402 — research, summarize, translate, code gen, image gen, document gen. Built with LNbits in Nairobi, Kenya.
 - [Satsback](https://satsback.com) - Bitcoin cashback for AI agents. Browse 25,000+ online retailers, generate affiliate-tracked links, and earn sats on purchases, paid straight to a Lightning address. Registration is a standard L402 dance (21 sats), no signup and no API keys; MCP server included. [Agent discovery](https://satsback.com/.well-known/agents.json).
+- [TRX Energy AI Gateway](https://ai.trxenergy.vip) - OpenAI-compatible multi-model inference gateway paywalled with L402 (per-token pricing). Serves deepseek-r1, qwen3.6:27b, codellama:13b, llama3, openchat:7b, llama2, and qwen2.5:1.5b behind a Lightning paywall. Models from 3 sats/1k tokens.
 
 <a name="tools" />
 
