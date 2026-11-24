@@ -95,6 +95,7 @@ The following list will provide you with detailed insights and resources to enha
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [Lightning Enable MCP](https://github.com/refined-element/lightning-enable-mcp) - Open-source (MIT) MCP server giving AI agents Lightning payment abilities: pay invoices, access L402-protected APIs, and mint/verify L402 challenges as a producer. .NET and Python builds; works with Strike, LND, and NWC wallets.
+- [l402-bridge](https://github.com/lamporun/l402-bridge) - Local OpenAI-compatible proxy that lets any tool (OpenClaw, Aider, Cline, Open WebUI, scripts) pay L402 inference sellers from any Nostr Wallet Connect wallet, with per-payment and daily limits. MIT, built on aperture-client.
 
 <a name="companies" />
 
