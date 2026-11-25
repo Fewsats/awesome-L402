@@ -96,6 +96,7 @@ The following list will provide you with detailed insights and resources to enha
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [Lightning Enable MCP](https://github.com/refined-element/lightning-enable-mcp) - Open-source (MIT) MCP server giving AI agents Lightning payment abilities: pay invoices, access L402-protected APIs, and mint/verify L402 challenges as a producer. .NET and Python builds; works with Strike, LND, and NWC wallets.
 - [l402-bridge](https://github.com/lamporun/l402-bridge) - Local OpenAI-compatible proxy that lets any tool (OpenClaw, Aider, Cline, Open WebUI, scripts) pay L402 inference sellers from any Nostr Wallet Connect wallet, with per-payment and daily limits. MIT, built on aperture-client.
+- [ngx-l402](https://github.com/ngx-l402/ngx-l402) - nginx module that puts a self-hosted, non-custodial L402 paywall in front of any HTTP API or MCP server. Accepts Cashu ecash and prices each HTTP endpoint and MCP tool separately.
 
 <a name="companies" />
 
