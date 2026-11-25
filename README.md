@@ -84,6 +84,7 @@ The following list will provide you with detailed insights and resources to enha
 - [The Ark AI](https://arknode.ai) - 120+ AI services payable via Lightning L402 — research, summarize, translate, code gen, image gen, document gen. Built with LNbits in Nairobi, Kenya.
 - [Satsback](https://satsback.com) - Bitcoin cashback for AI agents. Browse 25,000+ online retailers, generate affiliate-tracked links, and earn sats on purchases, paid straight to a Lightning address. Registration is a standard L402 dance (21 sats), no signup and no API keys; MCP server included. [Agent discovery](https://satsback.com/.well-known/agents.json).
 - [Loop XXI](https://mcp.loopxxi.com) - Loop XXI L402 Bitcoin Lightning endpoints: December 2026 Loop Letter paid read (1,000 sats once) and Loop MCP Bitcoin/developer tools (10 free, 6 L402 per-call at 10–25 sats). [Reader](https://loopxxi.com/read/loop-letter-2026-12) · [Agent payments](https://loopxxi.com/.well-known/agent-payments.json) · Contact: business@loopxxi.com.
+- [Lampo](https://lampo.run) - Public pi402 seller: OpenAI-compatible LLM inference (Kimi, GLM, DeepSeek) paid per token over L402 or MPP with prepaid token bundles, no account or API key. Built on Aperture, Lightmeter and Wavelength. [Source](https://github.com/lamporun/lampo).
 
 <a name="tools" />
 
@@ -95,6 +96,7 @@ The following list will provide you with detailed insights and resources to enha
 - [LSAT-middleware](https://github.com/getAlby/lsat-middleware) - A Golang middleware library for the Gin and Echo frameworks, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [l402_middleware](https://github.com/DhananjayPurohit/l402_middleware) - A rust middleware library, enabling Bitcoin Lightning paywalls and authentication via the L402 protocol.
 - [Lightning Enable MCP](https://github.com/refined-element/lightning-enable-mcp) - Open-source (MIT) MCP server giving AI agents Lightning payment abilities: pay invoices, access L402-protected APIs, and mint/verify L402 challenges as a producer. .NET and Python builds; works with Strike, LND, and NWC wallets.
+- [l402-bridge](https://github.com/lamporun/l402-bridge) - Local OpenAI-compatible proxy that lets any tool (OpenClaw, Aider, Cline, Open WebUI, scripts) pay L402 inference sellers from any Nostr Wallet Connect wallet, with per-payment and daily limits. MIT, built on aperture-client.
 
 <a name="companies" />
 
